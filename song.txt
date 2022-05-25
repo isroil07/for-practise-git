@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 
 hello 
 heloo
 finish
+=======
+hello 
+heloo
+finish
+her him
+>>>>>>> 5d33b7d07afe333328ade72e28559ee2c2b625d6
